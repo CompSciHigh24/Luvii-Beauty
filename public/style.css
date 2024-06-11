@@ -1,0 +1,33 @@
+.carousel-item{
+  height: auto !important;
+  width:20% !important;
+  image-align: center;
+  margin-left:40%;
+}
+
+#icons{
+  height: 5% !important;
+   width:auto !important;
+}
+
+#space{
+  margin-top:-450px !important;
+  margin-bottom:-600px !important;
+}
+
+
+body {
+  background-color: mediumpurple;
+}
+
+strong {
+  color: mediumpurple;
+  text-align: center;
+}
+
+
+}
+
+h2 {
+  font-family: verdana;
+}

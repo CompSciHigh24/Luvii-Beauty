@@ -1,0 +1,43 @@
+.carousel-item{
+  height: auto !important;
+  width:20% !important;
+  image-align: center;
+  margin-left:40%;
+}
+
+#icons{
+  height: 5% !important;
+   width:auto !important;
+}
+
+#space{
+  margin-top:-450px !important;
+  margin-bottom:-600px !important;
+}
+
+
+body {
+  background-color: mediumpurple;
+}
+
+strong {
+  color: purple;
+  text-align: center;
+}
+
+
+}
+
+.h1 {
+  font-family: verdana;
+}
+
+.images {
+  margin: auto;
+  width:  250px;
+  height: 300px;
+  object-fit: cover;
+}
+.card{
+ 
+}
