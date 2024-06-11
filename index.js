@@ -13,6 +13,10 @@ app.use((req, res, next) => {
   next();
 });
 
+app.get("/" , (req, res) => {
+  res.sendFile(__dirname + "/public/home.html");
+});
+
 app.get("/home" , (req, res) => {
   res.sendFile(__dirname + "/public/home.html");
 });
